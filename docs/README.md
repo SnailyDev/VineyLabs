@@ -1,27 +1,28 @@
 # Viney's Universe
 
-This is a RPG that you need to explore, battle mobs on the way,
+### WARNING - THIS PROJECT IS DISCONTINUED
+
+This was a RPG that you needed to explore, battle mobs on the way,
 and become the most popular player in Viney's Universe.
+
+As this project is deprecated and BARELY started, it needs to be abandoned because I will develop Java games with FXGL, for example, or libGDX, if I fix a error that I have.
 
 ## How to play/use
 
-1.  Download the latest release
-2.  Launch the installer
-3.  Now launch the game!
-
-Currently the game is only available for Windows 11/10 64bit
+As the game is discontinued, there are no releases, but you can use `make build` and then `make` to run the game.
 
 ## License
 
-The game is licensed under a non-commercial use license.
+The game is licensed under a non-commercial use license, called the CC-NC-4.0.
 See more at [LICENSE.md](LICENSE.md)
 
-## See a issue/bug ?
+## See a issue/bug?
 
-You can sumbit an issue, or make a pull request if you want,
-because conributions are welcome! See more about in the [CONTRIBUTIONS.md](CONTRIBUTIONS.md) file.
+As the project is discontinued, I won't fix bugs anyways, but, you can fork the project, make a pull request, and continue the project.
 
 ## Credits
+
+You may need them to fork the repo:
 
 Music:
 Wildflowers by Purrple Cat | https://purrplecat.com
